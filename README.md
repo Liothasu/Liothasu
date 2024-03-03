@@ -49,7 +49,7 @@
   <a href="https://www.linkedin.com/in/donia-sayedi/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
-  <a href="https://discord.gg/E2f8yNun" target="_blank">
+  <a href="https://discord.gg/VqkEyUG2XJ" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
   </a>
   <a href="https://steamcommunity.com/id/liothasu/" target="_blank">
